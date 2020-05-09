@@ -1,11 +1,11 @@
 {
 "companyName": "Gentle Prod",
 "productName": "Quarantine Companion",
-"productVersion": "0.84",
+"productVersion": "0.93",
 "dataUrl": "QCTextTester.data.unityweb",
 "wasmCodeUrl": "QCTextTester.wasm.code.unityweb",
 "wasmFrameworkUrl": "QCTextTester.wasm.framework.unityweb",
-"graphicsAPI": ["WebGL 2.0"],
+"graphicsAPI": ["WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",
